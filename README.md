@@ -17,7 +17,7 @@
 [![DOU](https://s.dou.ua/assets/img/favicon32.png)](https://dou.ua/users/liza-strykharchuk/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elixaq)
 <a href="mailto:lizastrykharchuk@gmail.com">
-  <img src="https://img.icons8.com/material-outlined/24/000000/old-email.png" alt="Email" width="24" height="24" />
+  <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" width="25" height="25" />
 </a>
 
 <h2 align="center">My skills</h3>
