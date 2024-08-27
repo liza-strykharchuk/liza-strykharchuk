@@ -16,9 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liza-strykharchuk-024353322/)
 [![DOU](https://s.dou.ua/assets/img/favicon32.png)](https://dou.ua/users/liza-strykharchuk/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elixaq)
-<a href="mailto:lizastrykharchuk@gmail.com">
-  <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" width="25" height="25" />
-</a>
 
 <h2 align="center">My skills</h3>
 <h3 align="left">Frontend:</h3>
