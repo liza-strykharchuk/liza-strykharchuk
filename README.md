@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm Liza Strykharchuk</h1>
+<h3 align="center">Front-end developer</h3>
 
-<!--
-**liza-strykharchuk/liza-strykharchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" alt="Lion" width="25" height="25" />
+  <br>
+  <a href="https://u8views.com/github/liza-strykharchuk">
+    <img src="https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg" alt="Liza Strykharchuk profile views" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+![I am Front-end developer](https://github.com/liza-strykharchuk/img/blob/main/Liza.png?raw=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **lizastrykharchuk@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liza-strykharchuk-024353322/)
+[![DOU](https://s.dou.ua/assets/img/favicon32.png)](https://dou.ua/users/liza-strykharchuk/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elixaq)
+
+<h2 align="center">My skills</h3>
+<h3 align="left">Frontend:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass)](https://skillicons.dev)
+
+<h3 align="left">Development Tools: </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,docker,postman)](https://skillicons.dev)
