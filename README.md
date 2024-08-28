@@ -4,9 +4,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" alt="Lion" width="25" height="25" />
   <br>
-  <a href="https://u8views.com/github/liza-strykharchuk">
-    <img src="https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg" alt="Liza Strykharchuk profile views" />
-  </a>
+ <a href="https://u8views.com/github/liza-strykharchuk"><img src="https://u8views.com/api/v1/github/profiles/119785153/views/day-week-month-total-count.svg"></a>
 </div>
 
 ![I am Front-end developer](https://github.com/liza-strykharchuk/img/blob/main/Liza.png?raw=true)
